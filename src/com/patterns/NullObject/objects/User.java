@@ -1,6 +1,4 @@
-package com.patterns.NullObject.goodCode.objects;
-
-import com.patterns.NullObject.goodCode.Animal;
+package com.patterns.NullObject.objects;
 
 /**
  * Created by Sahatov Batyr on 22.03.2019.

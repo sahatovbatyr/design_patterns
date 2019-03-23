@@ -1,6 +1,6 @@
-package com.patterns.NullObject.goodCode;
+package com.patterns.NullObject;
 
-import com.patterns.NullObject.goodCode.service.UserService;
+import com.patterns.NullObject.service.UserService;
 
 /**
  * Created by Sahatov Batyr on 22.03.2019.

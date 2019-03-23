@@ -1,10 +1,9 @@
-package com.patterns.NullObject.goodCode.service;
+package com.patterns.NullObject.service;
 
-import com.patterns.NullObject.goodCode.objects.AbstractUser;
-import com.patterns.NullObject.goodCode.objects.NullUser;
-import com.patterns.NullObject.goodCode.objects.User;
+import com.patterns.NullObject.objects.AbstractUser;
+import com.patterns.NullObject.objects.NullUser;
+import com.patterns.NullObject.objects.User;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.patterns.NullObject.goodCode.objects;
+package com.patterns.NullObject.objects;
 
 /**
  * Created by Sahatov Batyr on 22.03.2019.
