@@ -5,7 +5,7 @@ import com.patterns.builder.objects.Product;
 /**
  * Created by Sahatov Batyr on 23.03.2019.
  */
-public class Runner {
+public class BuilderRunner {
 
     public static void main( String[] args ){
 
@@ -16,6 +16,8 @@ public class Runner {
                 .setProductCategoryId(1L)
                 .setBarcode(12345L)
                 .build();
+
+        System.out.println(product);
 
     }
 

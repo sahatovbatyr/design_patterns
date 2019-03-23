@@ -6,7 +6,7 @@ import com.patterns.singleton.singleThreaded.SingleThreadedSingleton;
 /**
  * Created by Sahatov Batyr on 23.03.2019.
  */
-public class Runner {
+public class SingletonRunner {
 
     public static void main(String[] args){
 

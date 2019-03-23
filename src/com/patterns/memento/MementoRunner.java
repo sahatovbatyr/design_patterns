@@ -7,7 +7,7 @@ import com.patterns.memento.objects.GameStateService;
 /**
  * Created by Sahatov Batyr on 23.03.2019.
  */
-public class Runner {
+public class MementoRunner {
 
     public static void main( String[] args){
 

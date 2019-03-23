@@ -5,7 +5,7 @@ import com.patterns.NullObject.service.UserService;
 /**
  * Created by Sahatov Batyr on 22.03.2019.
  */
-public class Runner {
+public class NullObjectRunner {
 
     public static void main( String[] args ) {
         UserService userService = new UserService();

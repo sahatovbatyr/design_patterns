@@ -7,7 +7,7 @@ import com.patterns.observer.objects.Product;
 /**
  * Created by Sahatov Batyr on 23.03.2019.
  */
-public class Runner {
+public class ObserverRunner {
 
     public static void main(String[] args ){
 
