@@ -6,6 +6,7 @@ import com.patterns.command.editor.Editor;
  * Created by Sahatov Batyr on 26.03.2019.
  */
 public abstract class Command {
+
     public Editor editor;
     private String oldText;
 
